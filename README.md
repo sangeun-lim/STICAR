@@ -202,3 +202,7 @@
 
 [포팅메뉴얼](https://www.notion.so/fcfcfaf17db94475b481517283cca6b3)
 
+-----------
+
+## ✨ 학습 모델 링크
+[학습모델](https://drive.google.com/file/d/1K6_H3Nps6j2hmG7b2kBClebyOKQcxyK3/view?usp=share_link)
